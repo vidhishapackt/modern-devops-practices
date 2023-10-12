@@ -58,11 +58,11 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 ## Errata
 
-Page 9 (Paragraph 1, line 4): abc should be xyz
+* Page 9 (Paragraph 1, line 4): abc should be xyz
 
-Page 229 (Figure 2) <img src="https://content.packt.com/B05684/cover_image_small.jpg" alt="Angular 6 for Enterprise-Ready Web Applications" itemprop="url"> should be <img src="https://content.packt.com/B10354/cover_image_small.png" alt="Machine Learning for Finance" itemprop="url">
+* Page 229 (Figure 2) <img src="https://content.packt.com/B05684/cover_image_small.jpg" alt="Angular 6 for Enterprise-Ready Web Applications" itemprop="url"> should be <img src="https://content.packt.com/B10354/cover_image_small.png" alt="Machine Learning for Finance" itemprop="url">
 
-Page 222 (line 10): inline.cs is used for updating the styles should be styles.cs is used for updating the styles
+* Page 222 (line 10): inline.cs is used for updating the styles should be styles.cs is used for updating the styles
 
 ### Related products
 * Google Cloud for DevOps Engineers [[Packt]](https://www.packtpub.com/product/google-cloud-for-devops-engineers/9781839218019?utm_source=github&utm_medium=repository&utm_campaign=9781839218019) [[Amazon]](https://www.amazon.com/dp/1839218010)
